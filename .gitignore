@@ -1,0 +1,2 @@
+*.pyc # ignoruje přípony pyc
+.idea/ # ignoruje adresar .idea
